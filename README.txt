@@ -1,6 +1,3 @@
-# Identity-Jekyll-Theme
-A jekyll theme for the identity template by html5up.net (@ajlkn). Demo https://vidhyav656.github.io/Identity-Jekyll-Theme/
-
 Identity by HTML5 UP
 html5up.net | @ajlkn
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
